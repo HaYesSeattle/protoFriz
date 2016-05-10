@@ -4,11 +4,11 @@ max width and height?
 */
 @font-face {
     font-family: titleFont;
-    src: url(../fonts/ClarendonLTStd.otf);
+    src: url(../fonts/ChaparralPro-Regular.otf);
 }
 @font-face {
     font-family: titleFontBold;
-    src: url(../fonts/ClarendonLTStd-Bold.otf);
+    src: url(../fonts/ChaparralPro-Bold.otf);
 }
 
 .mainshell, .app, body, a {
@@ -123,7 +123,8 @@ a{
 }
 .toss-button {
     /*padding: 10px 20px;*/
-    margin: 10px;
+    margin-top: 40px;
+    margin-left: 20%;
     display: inline-block;
     background-color: rgba(67, 169, 40, .45);
     border-radius: 90px;
